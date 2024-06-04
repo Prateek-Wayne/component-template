@@ -13,7 +13,7 @@ pip install streamlit-custom-component
 ```python
 import streamlit as st
 
-from my_component import my_component
+from __init__ import my_component
 
 value = my_component()
 
