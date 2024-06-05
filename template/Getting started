@@ -1,0 +1,22 @@
+# Getting Started
+
+First Install Nodejs Dependecies for React Project
+
+in frontend directory
+```
+npm install
+```
+start app
+
+```
+npm run start
+```
+
+in my component folder
+now we have to start exmaple.py
+
+```
+streamlit run example.py
+```
+open streamlit app
+React compoennet will be there
